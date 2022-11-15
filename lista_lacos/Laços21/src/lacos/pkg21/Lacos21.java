@@ -14,8 +14,7 @@ package lacos.pkg21;
  */
 
 import javax.swing.JOptionPane;
-import java.util.List;
-import java.util.stream.Collectors;
+import java.util.List;importjava.util.stream.Collectors;
 
 /**
  *
